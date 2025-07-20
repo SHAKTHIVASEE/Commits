@@ -1,22 +1,16 @@
-# ✅ Complete Guide: How to Do More Than 10 Commits In GitHub Before 10 July
+# Guide: How to Do More Than 10 Commits In GitHub
 
-This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
-
----
-
-## 🪜 Step-by-Step Instructions
-
-### 1️⃣ Create a New Repository
+### 1️. Create a New Repository
 
 - Visit: https://github.com/new  
-- Repository Name: `zama-commit-test` (or any name)  
+- Repository Name: (or any name)  
 - Set to **Public**  
 - ✅ Tick "Add a README file"  
 - Click **Create repository**
 
 ---
 
-### 2️⃣ Open Codespace
+### 2. Open Codespace
 
 - After repo creation, click the green `<> Code` button  
 - Select: **Open with Codespaces → + New codespace**  
@@ -24,11 +18,11 @@ This guide helps you complete **15 GitHub commits on 10 June** easily using **Gi
 
 ---
 
-### 3️⃣ Open Terminal in Codespace
+### 3️. Must Open Terminal in Codespace
 
 ---
 
-### 4️⃣ Run the Following Commands
+### 4️. Run the Following Commands
 
 Paste the following one-by-one or all together in the terminal:
 
@@ -99,24 +93,9 @@ git push
 
 ---
 
-💥 You’re Done!
+ Now You’re Done!
 
-• Close Every Tab ( Browser )
 
-• Just Wait 5-10 Minutes Max
+• You now have more than 10 public commits visible on your profile in 15 mins
 
-• You now have more than 10 public commits visible on your profile ( Before 10 July ) — ready to use for Zama Developer Program.
 
-## 🙌 Guide Created by: [@EarnByAbhi](https://x.com/earnbyabhi)
-
-Follow & Stay Connected for More Zama Alpha, Airdrops & Dev Tutorials
-
-- 📍 X (Twitter): [@EarnByAbhi](https://x.com/earnbyabhi)
-- 💬 Telegram: [@EarnByAbhi23](https://t.me/earnbyabhi23)
-- ▶️ YouTube: [EarnByAbhi](https://www.youtube.com/@EarnByAbhi)
-
-> 🧠 Join our Telegram Community  
-For live help, updates, & early alpha drops  
-👉 [https://t.me/earnbyabhi23](https://t.me/earnbyabhi23)
-
----
